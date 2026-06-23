@@ -26,6 +26,8 @@ To support analytical reporting and SQL-based business analysis, the dataset was
 ### Dimension Tables
 * dim_customers
 * dim_products
+* dim_categories
+* dim_products
 * dim_geography
 
 This structure improves query performance, simplifies business reporting, and follows common data warehouse design principles used in enterprise analytics environments.
